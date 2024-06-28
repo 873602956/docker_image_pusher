@@ -8,4 +8,4 @@ nyanmisaka/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
 xiaoyaliu/glue
-yixinrushi/video_tools-slim
+yixinrushi/video_tools:slim
