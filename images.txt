@@ -11,3 +11,4 @@ xiaoyaliu/glue
 video_tools
 hohngong/qbittorrent
 superng6/qbittorrentee
+superng6/qbittorrent
