@@ -9,4 +9,3 @@ linuxserver/jackett
 allanpk716/chinesesubfinder
 xiaoyaliu/glue
 video_tools
-johngong/qbittorrent
